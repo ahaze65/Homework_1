@@ -1,6 +1,6 @@
 # Homework_1
 
-All of the code is in the 'Data.ipynb' file that is listed here in main. 
+All of the code is in the 'HW1.ipynb' file that is listed here in main. 
 
 You should be able to hit run all, and should work as expected with no errors.
 
